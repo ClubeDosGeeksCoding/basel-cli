@@ -1,0 +1,31 @@
+{
+  "name": "basel-cli",
+  "version": "0.0.1",
+  "description": "Client package for Basel",
+  "main": "index.js",
+  "readmeFilename": "README.md" ,
+  "scripts": {
+    "test": "node test/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClubeDosGeeksCoding/basel-cli.git"
+  },
+  "keywords": [
+    "basel",
+    "electron",
+    "javascript",
+    "angular",
+    "sqlite"
+  ],
+  "author": "Jayr Alencar <jayralencarpereira@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ClubeDosGeeksCoding/basel-cli/issues"
+  },
+  "homepage": "https://github.com/ClubeDosGeeksCoding/basel-cli#readme",
+  "dependencies": {
+    "sqlite-sync":"*",
+    "sqlite-cipher":"*"
+  }
+}

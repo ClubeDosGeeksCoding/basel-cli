@@ -1,6 +1,6 @@
 {
   "name": "basel-cli",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Client package for Basel",
   "main": "index.js",
   "readmeFilename": "README.md" ,
